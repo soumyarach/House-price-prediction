@@ -1,8 +1,8 @@
 # House-price-prediction
 # Why i built it?
-- Purpose: You've built a simple linear regression model to predict housing Price based on Area.
+- Purpose: I've built a simple linear regression model to predict housing Price based on Area.
 - Demonstration: It shows how linear regression can model the relationship between a predictor (Area) and a target (Price) for housing data.
-- Evaluation: Helps understand model performance via metrics like RMSE and R².
+- Evaluation: It's helps to understand model performance via metrics like RMSE and R².
 
 # How i built it?
 1. Dataset Used: A small sample dataset with Area and Price of houses.
